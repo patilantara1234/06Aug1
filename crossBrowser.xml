@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="browserName" value="chrome"></parameter>
+    <classes>
+     
+      <class name="scenarioPack.SDTC01_TestClass_VerifyLoginFunctionality"/>
+      <class name="scenarioPack.SDTC02_TestClass_VerifyLogoutFunctionality"/>
+      <class name="scenarioPack.SDTC03_TestClass_VerifyBagProductAddTOCartFunctionality"/>
+     <class name="scenarioPack.SDTC_04_TestClass_verifyBagProductAddToFunctionality"/>
+  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

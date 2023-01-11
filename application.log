@@ -1,0 +1,80 @@
+2023-01-11 14:11:41,684  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:11:43,093  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:11:43,228  INFO [main] SwasDemo06AugBatch:49 -  wndows is maximize
+2023-01-11 14:11:44,732  INFO [main] SwasDemo06AugBatch:54 -  username is pass 
+2023-01-11 14:11:44,898  INFO [main] SwasDemo06AugBatch:57 - password is pass
+2023-01-11 14:11:45,542  INFO [main] SwasDemo06AugBatch:60 - click on login button
+2023-01-11 14:11:45,940  INFO [main] SwasDemo06AugBatch:63 - take a screenshot
+2023-01-11 14:11:45,940  INFO [main] SwasDemo06AugBatch:65 - went on home page
+2023-01-11 14:11:47,162  INFO [main] SwasDemo06AugBatch:72 - browser is closed
+2023-01-11 14:11:47,163  INFO [main] SwasDemo06AugBatch:73 - end of program
+2023-01-11 14:11:49,434  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:11:54,541  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:11:54,695  INFO [main] SwasDemo06AugBatch:49 -  wndows is maximize
+2023-01-11 14:11:54,874  INFO [main] SwasDemo06AugBatch:54 -  username is pass 
+2023-01-11 14:11:55,086  INFO [main] SwasDemo06AugBatch:57 - password is pass
+2023-01-11 14:11:55,375  INFO [main] SwasDemo06AugBatch:60 - click on login button
+2023-01-11 14:11:55,642  INFO [main] SwasDemo06AugBatch:63 - take a screenshot
+2023-01-11 14:11:55,642  INFO [main] SwasDemo06AugBatch:65 - went on home page
+2023-01-11 14:11:56,604  INFO [main] SwasDemo06AugBatch:72 - browser is closed
+2023-01-11 14:11:56,605  INFO [main] SwasDemo06AugBatch:73 - end of program
+2023-01-11 14:11:58,411  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:12:01,253  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:12:01,401  INFO [main] SwasDemo06AugBatch:49 -  wndows is maximize
+2023-01-11 14:12:01,628  INFO [main] SwasDemo06AugBatch:54 -  username is pass 
+2023-01-11 14:12:01,775  INFO [main] SwasDemo06AugBatch:57 - password is pass
+2023-01-11 14:12:02,069  INFO [main] SwasDemo06AugBatch:60 - click on login button
+2023-01-11 14:12:02,324  INFO [main] SwasDemo06AugBatch:63 - take a screenshot
+2023-01-11 14:12:02,326  INFO [main] SwasDemo06AugBatch:65 - went on home page
+2023-01-11 14:12:03,182  INFO [main] SwasDemo06AugBatch:72 - browser is closed
+2023-01-11 14:12:03,182  INFO [main] SwasDemo06AugBatch:73 - end of program
+2023-01-11 14:12:05,080  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:12:08,373  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:12:08,532  INFO [main] SwasDemo06AugBatch:49 -  wndows is maximize
+2023-01-11 14:12:08,840  INFO [main] SwasDemo06AugBatch:54 -  username is pass 
+2023-01-11 14:12:09,089  INFO [main] SwasDemo06AugBatch:57 - password is pass
+2023-01-11 14:12:09,362  INFO [main] SwasDemo06AugBatch:60 - click on login button
+2023-01-11 14:12:09,604  INFO [main] SwasDemo06AugBatch:63 - take a screenshot
+2023-01-11 14:12:09,605  INFO [main] SwasDemo06AugBatch:65 - went on home page
+2023-01-11 14:12:11,125  INFO [main] SwasDemo06AugBatch:72 - browser is closed
+2023-01-11 14:12:11,126  INFO [main] SwasDemo06AugBatch:73 - end of program
+2023-01-11 14:20:09,253  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:20:11,787  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:20:11,933  INFO [main] SwasDemo06AugBatch:49 - Windows is maximize
+2023-01-11 14:20:12,204  INFO [main] SwasDemo06AugBatch:54 - Username is pass 
+2023-01-11 14:20:12,372  INFO [main] SwasDemo06AugBatch:57 - Password is pass
+2023-01-11 14:20:12,709  INFO [main] SwasDemo06AugBatch:60 - Click on login button
+2023-01-11 14:20:13,005  INFO [main] SwasDemo06AugBatch:63 - Take a screenshot
+2023-01-11 14:20:13,006  INFO [main] SwasDemo06AugBatch:65 - Went on home page
+2023-01-11 14:20:13,400  INFO [main] SwasDemo06AugBatch:72 - Browser is closed
+2023-01-11 14:20:13,401  INFO [main] SwasDemo06AugBatch:73 - End of program
+2023-01-11 14:20:16,203  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:20:19,089  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:20:19,240  INFO [main] SwasDemo06AugBatch:49 - Windows is maximize
+2023-01-11 14:20:19,450  INFO [main] SwasDemo06AugBatch:54 - Username is pass 
+2023-01-11 14:20:19,609  INFO [main] SwasDemo06AugBatch:57 - Password is pass
+2023-01-11 14:20:19,920  INFO [main] SwasDemo06AugBatch:60 - Click on login button
+2023-01-11 14:20:20,403  INFO [main] SwasDemo06AugBatch:63 - Take a screenshot
+2023-01-11 14:20:20,403  INFO [main] SwasDemo06AugBatch:65 - Went on home page
+2023-01-11 14:20:21,338  INFO [main] SwasDemo06AugBatch:72 - Browser is closed
+2023-01-11 14:20:21,339  INFO [main] SwasDemo06AugBatch:73 - End of program
+2023-01-11 14:20:23,608  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:20:26,129  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:20:26,302  INFO [main] SwasDemo06AugBatch:49 - Windows is maximize
+2023-01-11 14:20:26,543  INFO [main] SwasDemo06AugBatch:54 - Username is pass 
+2023-01-11 14:20:26,709  INFO [main] SwasDemo06AugBatch:57 - Password is pass
+2023-01-11 14:20:27,024  INFO [main] SwasDemo06AugBatch:60 - Click on login button
+2023-01-11 14:20:27,426  INFO [main] SwasDemo06AugBatch:63 - Take a screenshot
+2023-01-11 14:20:27,426  INFO [main] SwasDemo06AugBatch:65 - Went on home page
+2023-01-11 14:20:28,026  INFO [main] SwasDemo06AugBatch:72 - Browser is closed
+2023-01-11 14:20:28,026  INFO [main] SwasDemo06AugBatch:73 - End of program
+2023-01-11 14:20:30,324  INFO [main] SwasDemo06AugBatch:40 - Browser is opened
+2023-01-11 14:20:33,716  INFO [main] SwasDemo06AugBatch:46 - url open
+2023-01-11 14:20:33,859  INFO [main] SwasDemo06AugBatch:49 - Windows is maximize
+2023-01-11 14:20:34,076  INFO [main] SwasDemo06AugBatch:54 - Username is pass 
+2023-01-11 14:20:34,262  INFO [main] SwasDemo06AugBatch:57 - Password is pass
+2023-01-11 14:20:34,588  INFO [main] SwasDemo06AugBatch:60 - Click on login button
+2023-01-11 14:20:35,266  INFO [main] SwasDemo06AugBatch:63 - Take a screenshot
+2023-01-11 14:20:35,266  INFO [main] SwasDemo06AugBatch:65 - Went on home page
+2023-01-11 14:20:37,011  INFO [main] SwasDemo06AugBatch:72 - Browser is closed
+2023-01-11 14:20:37,012  INFO [main] SwasDemo06AugBatch:73 - End of program
